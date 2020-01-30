@@ -4,7 +4,7 @@ SEOTitle: FuGuiJar的博客 | FuGuiJar
 header-img: img/home-bg-he.png
 email: FuGuiJar@qq.com
 description: "FuGuiJar的博客"
-keyword: "FuGuiJar, FuGuiJar的博客, rainbom sea, rainbomsea, Python blog"
+keyword: "FuGuiJar, FuGuiJar的博客, Blog, 李嘉成, 个人博客，762662089，富贵的博客，博客"
 url: "http://FuGuiJar.GitHub.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/FuGuiJar/FuGuiJar.GitHub.io.git" #code repository | 代码仓库
@@ -61,8 +61,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
-  clientSecret: a866f00709e418ffd35d9986e130ff7f01a3cba2    #生成的clientSecret
+  clientID: cf1288f730f9c60e4583                            #生成的clientID
+  clientSecret: 9ea225fa605545ba0110c289bfc2f7028b7806f7    #生成的clientSecret
   repo: FuGuiJar.Github.io    #仓库名称
   owner: FuGuiJar    # github用户名
   admin: FuGuiJar
@@ -73,7 +73,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 9acee03023ad0c6c993dd86df81e2ac8
+ba_track_id: 089940839eee6c978b036b39e998baec
 
 
 # Featured Tags
