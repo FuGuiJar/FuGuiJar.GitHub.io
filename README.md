@@ -8,4 +8,4 @@
 
 ## FuGuiJar
 
-![示例图片](https://i.loli.net/2020/01/30/6rQ27ymNotWiMsz.jpg)
+![TU](https://i.loli.net/2020/01/30/6rQ27ymNotWiMsz.jpg)
