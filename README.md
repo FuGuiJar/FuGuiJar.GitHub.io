@@ -1,11 +1,11 @@
-# FuGuiJar.github.io
+# FuGuiJar.GitHub.io
 
-> 复制大佬过来的模板， 页面自己写是不可能的，一辈子都是不可能的了。
+> 别猜了肯定是复制的啊
 
 ## 网站地址
 
-[RainbomSea.xyz](http://rainbomsea.xyz/)
+[FuGuiJar.top](http://FuGuiJar.top/)
 
-## 示例截图，嘿嘿，还是蛮好看的吧
+## FuGuiJar
 
-![示例图片](http://bolg-images.oss-cn-shenzhen.aliyuncs.com/18-12-7/24840818.jpg)
+![示例图片](https://i.loli.net/2020/01/30/6rQ27ymNotWiMsz.jpg)
