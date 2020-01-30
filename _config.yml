@@ -23,7 +23,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 facebook_username: rainbom.z
 github_username: FuGuiJar
 zhihu_username: FuGuiJar
-csdn_username: qq_39268193
+csdn_username: qq_42886371
 
 
 
@@ -92,15 +92,15 @@ service-worker: true
 friends: [
     {
         title: "GitHub·FuGuiJar",
-        href: "http://RainbomSea.github.io"
+        href: "http://fuguijar.github.io"
     },{
         title: "CSDN·FuGuiJar",
-        href: "https://blog.csdn.net/qq_39268193"
+        href: "https://blog.csdn.net/qq_42886371"
     },{
         title: "知乎·FuGuiJar",
-        href: "https://www.zhihu.com/people/RainbomSea"
+        href: "https://www.zhihu.com/people/fu-gui-39-24-97"
     },{
         title: "GitBook·FuGuiJar",
-        href: "https://legacy.gitbook.com/@rainbomsea"
+        href: ""
     }
 ]
