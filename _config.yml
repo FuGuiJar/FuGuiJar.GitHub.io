@@ -20,7 +20,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-facebook_username: rainbom.z
+facebook_username: FuGuiJar
 github_username: FuGuiJar
 zhihu_username: FuGuiJar
 csdn_username: qq_42886371
@@ -61,11 +61,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: cf1288f730f9c60e4583                            #生成的clientID
-  clientSecret: 9ea225fa605545ba0110c289bfc2f7028b7806f7    #生成的clientSecret
-  repo: FuGuiJar.Github.io    #仓库名称
-  owner: FuGuiJar    # github用户名
-  admin: FuGuiJar
+  clientID: '231bfc37fe6b5605921c'                          #生成的clientID
+  clientSecret: '64fcf0a95e6baa650b5256e0e2e12e91ad134702'    #生成的clientSecret
+  repo: 'FuGuiJar.Github.io'    #仓库名称
+  owner: 'FuGuiJar'    # github用户名
+  admin: 'FuGuiJar'
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
@@ -101,6 +101,6 @@ friends: [
         href: "https://www.zhihu.com/people/fu-gui-39-24-97"
     },{
         title: "GitBook·FuGuiJar",
-        href: ""
+        href: "https://fuguijar.top"
     }
 ]
