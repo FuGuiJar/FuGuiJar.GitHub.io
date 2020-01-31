@@ -6,4 +6,4 @@
 
 [FuGuiJar.top](http://FuGuiJar.top/)
 
-![](https://i.loli.net/2020/01/31/U8br7AdQyhim9Yk.jpg/)
+![](https://i.loli.net/2020/01/31/U8br7AdQyhim9Yk.jpg)
