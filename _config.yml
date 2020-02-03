@@ -92,7 +92,7 @@ service-worker: true
 friends: [
     {
         title: "GitHub·FuGuiJar",
-        href: "http://fuguijar.github.io"
+        href: "https://github.com/FuGuiJar"
     },{
         title: "CSDN·FuGuiJar",
         href: "https://blog.csdn.net/qq_42886371" 
